@@ -1,4 +1,4 @@
-#### Write your implementation of testing framework and assertion. Only after completing this go forward.
+#### Write your implementation of testing framework and assertion. Only after completing this go forward
 
 #### Write two tests for the following functions using test framework assertion
 
